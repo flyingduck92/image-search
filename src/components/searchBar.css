@@ -1,0 +1,16 @@
+label {
+  font-size: 3em;
+}
+
+.search-input {
+  width: 100%;
+  padding: 1em;
+  border: 2px solid #ccc;
+  border-radius: .5em;
+  box-sizing: border-box;
+}
+
+.image-search {
+  margin-bottom: .85em;
+}
+
